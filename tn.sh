@@ -3,4 +3,4 @@
 # Simple note-taking script
 # Co-Author japablaza
 
-echo $1 >> note.txt
+echo $* >> note.txt
