@@ -4,3 +4,4 @@
 # Co-Author japablaza
 
 echo $(date): $* >> note.txt
+echo Se ha guardado la nota: $*
