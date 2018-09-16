@@ -3,4 +3,4 @@
 # Simple note-taking script
 # Co-Author japablaza
 
-echo $* >> note.txt
+echo $(date): $* >> note.txt
