@@ -2,3 +2,5 @@
 Hola_Jose
 Segunta_nota
 Sat Sep 15 23:38:33 CDT 2018: new note with date
+Sat Sep 15 23:44:38 CDT 2018: Nueva nota
+Sun Sep 16 21:16:25 CDT 2018: hola mundo
