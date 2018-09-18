@@ -15,8 +15,11 @@
 - `type <name>`
 - `var="hola"`
 - `echo $hola`
+- `printf 'hello\n'`
+- `printf "p%st" a e i o u`
 - `chmod u+x <file>`
   - This will add the executable rights for the file owner only
+- `export EDITOR=vi`
 
 ## Command READ
 - `read <var_name>` # Will prompt in the terminal and anything you type will be send to the variable `var_name`
