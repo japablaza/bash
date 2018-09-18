@@ -30,6 +30,7 @@ echo "This is a simeple while loop that check one word"
 
 echo "Ingresa la letra correcta (Y/N)"
 
+respuesta=
 while [[ ! $respuesta ]]; do
   read -r -n 1 -s letra
   if [[ $letra = [yY] ]]; then
