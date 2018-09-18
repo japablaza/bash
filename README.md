@@ -20,6 +20,9 @@
 - `chmod u+x <file>`
   - This will add the executable rights for the file owner only
 - `export EDITOR=vi`
+- `IFS=: read a b` ---> 1:2
+  - `echo $a` igual a `1`
+  - `echo $b` igual a `2`
 
 ## Command READ
 - `read <var_name>` # Will prompt in the terminal and anything you type will be send to the variable `var_name`
